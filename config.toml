@@ -1,4 +1,33 @@
-baseURL = "http://example.org/"
-languageCode = "en-uk"
-title = "My New Hugo Site"
+baseURL = "www.example.com"
+languageCode = "en-us"
+title = "SABS:R<sup>3</sup>"
+copyright = "Oxford"
 theme = "serif"
+
+[params]
+google_analytics_id=""
+
+[[menu.main]]
+name = "About"
+url = "/program/"
+weight = 1
+
+[[menu.main]]
+name = "Team"
+url = "/team/"
+weight = 2
+
+[[menu.main]]
+name = "Modules 2019"
+url = "/modules/"
+weight = 3
+
+[[menu.main]]
+name = "Example Projects"
+url = "/projects/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5

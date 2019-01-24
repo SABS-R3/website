@@ -1,22 +1,22 @@
 .page-home {
-  background-image: url('../images/undraw_taking_notes_tjaf.svg');
+  background-image: url('../images/slideimage2.jpg');
   background-repeat: no-repeat;
   background-size: 115%;
-  background-position: 49px -40px;
+  background-position: 200px 130px;
   @include media-breakpoint-up(sm) {
     background-size: 90%;
-    background-position: 159px -40px;
+    background-position: 300px 130px;
   }
   @include media-breakpoint-up(md) {
-    background-size: 70%;
-    background-position: 100% -50px;
+    background-size: 80%;
+    background-position: 160% 130px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 67%;
-    background-position: 100% -50px;
+    background-size: 70%;
+    background-position: 100% 130px;
   }
   @include media-breakpoint-up(xl) {
-    background-size: 58%;
-    background-position: 100% -90px;
+    background-size: 60%;
+    background-position: 80% 130px;
   }
 }

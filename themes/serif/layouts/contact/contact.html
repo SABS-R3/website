@@ -18,57 +18,32 @@
       {{ .Content }}
       <ul>
         <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
+        <li><strong>Fax: </strong>{{ .Site.Data.contact.fax}}</li>
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
             {{ .Site.Data.contact.email }}</a></li>
         {{ if .Site.Data.contact.address }}
-        <li><strong>Address: </strong>{{ .Site.Data.contact.address }}</li>
+        <li><strong>Address: </strong>{{ .Site.Data.contact.address |safeHTML }}</li>
         {{ end }}
       </ul>
-      <h4 class="mt-4">Business Hours</h4>
-      <table class="table table-sm opening-hours-table">
-        <tr>
-          <td class="day font-weight-bold">Monday</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Tuesday</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Wednesday</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Thursday</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Friday</td>
-          <td class="opens">8:30am</td>
-          <td>-</td>
-          <td class="closes">5:00pm</td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Saturday</td>
-          <td class="opens">Closed</td>
-          <td></td>
-          <td class="closes"></td>
-        </tr>
-        <tr>
-          <td class="day font-weight-bold">Sunday</td>
-          <td class="opens">Closed</td>
-          <td> </td>
-          <td class="closes"></td>
-        </tr>
-      </table>
+      <h4 class="mt-4">How to find us</h4>
+      The Rex Richards Building is located off South Parks Road,
+      behind the Physical and Theoretical Chemistry Laboratory.
+      When you get to the entrance on the north west side (marked on the map below)
+      please use the buzzer to ask to for admission to the building.
+      See also the
+      <a href="http://energy.materials.ox.ac.uk/uploads/UNTF 2014/Science_Area_map[1].pdf" target="_blank">Map of Oxford University Science Area</a> ,
+      where the Rex Richards Building is marked as number 4, or the
+      <a href="https://www.ox.ac.uk/visitors/map?wssl=1" target="_blank">Searchable Map</a>
+      of all the Oxford University buildings.
+      <h4 class="mt-4">Parking</h4>
+      Unfortunately there is no parking available at the building. The nearest car parking
+      on Mansfield Road (metered parking). Click on the marker on the map for driving directions.
+      <iframe frameborder="0" height="400" scrolling="no" src="https://www.google.com/maps/d/embed?mid=1QGhvRZrrVyBxEkv34klGj11qndsmZntX"
+                                                          width="640">
+      </iframe>
+      View <a href="http://maps.google.co.uk/maps/ms?hl=en&amp;ie=UTF8&amp;t=h&amp;source=embed&amp;msa=0&amp;ll=51.759679,-1.253804&amp;spn=0.005406,0.013937&amp;msid=215252059353732291079.0004a145bd4451e1f1e30" target="_blank">University of Oxford DTC: Directions</a>
+      in a larger map.
+
     </div>
   </div>
 </div>
