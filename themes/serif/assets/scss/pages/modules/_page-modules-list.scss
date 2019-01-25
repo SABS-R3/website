@@ -1,0 +1,22 @@
+.page-modules-list {
+  background-image: url('../images/slideimage8_transparent.jpg');
+  background-repeat: no-repeat;
+  background-size: 115%;
+  background-position: 200px 130px;
+  @include media-breakpoint-up(sm) {
+    background-size: 90%;
+    background-position: 300px 130px;
+  }
+  @include media-breakpoint-up(md) {
+    background-size: 80%;
+    background-position: 160% 130px;
+  }
+  @include media-breakpoint-up(lg) {
+    background-size: 70%;
+    background-position: 100% 130px;
+  }
+  @include media-breakpoint-up(xl) {
+    background-size: 60%;
+    background-position: 80% 130px;
+  }
+}

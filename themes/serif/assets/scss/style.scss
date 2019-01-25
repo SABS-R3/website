@@ -65,11 +65,17 @@
 @import 'pages/home';
 @import 'pages/team/page-team-list';
 @import 'pages/team/team-summary';
-@import 'pages/testimonials/page-testimonials-list';
-@import 'pages/testimonials/testimonials-summary';
+@import 'pages/posts/page-posts-single';
+@import 'pages/posts/posts-summary';
 @import 'pages/services/page-services-list';
 @import 'pages/services/page-services-single';
 @import 'pages/services/service-summary';
+@import 'pages/projects/page-projects-list';
+@import 'pages/projects/page-projects-single';
+@import 'pages/projects/projects-summary';
+@import 'pages/modules/page-modules-list';
+@import 'pages/modules/page-modules-single';
+@import 'pages/modules/modules-summary';
 
 body {
   font-size: 1rem;

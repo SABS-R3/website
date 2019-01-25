@@ -1,0 +1,22 @@
+.modules-summary {
+  display: flex;
+  align-items: flex-start;
+  .modules-image {
+    flex: 0 0 100px;
+    margin-right: 10px;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .modules-content {
+    flex: 1;
+    .modules-title {
+      font-family: $font-family-heading;
+      font-size: 1.6rem;
+    }
+    p {
+      color: $secondary;
+    }
+  }
+}

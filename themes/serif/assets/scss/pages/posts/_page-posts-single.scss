@@ -1,0 +1,12 @@
+.page-posts-single {
+  h1.title {
+    font-size: 2rem;
+    font-family: $font-family-heading;
+    color: $primary;
+  }
+  .content {
+    p {
+      color: $secondary;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.projects-summary {
+  display: flex;
+  align-items: flex-start;
+  .projects-image {
+    flex: 0 0 100px;
+    margin-right: 10px;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .projects-content {
+    flex: 1;
+    .projects-title {
+      font-family: $font-family-heading;
+      font-size: 1.6rem;
+    }
+    p {
+      color: $secondary;
+    }
+  }
+}
