@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on SABS:R&lt;sup&gt;3&lt;/sup&gt;</title>
+    <link>https://sabs-r3.github.io/program/</link>
+    <description>Recent content in Overview on SABS:R&lt;sup&gt;3&lt;/sup&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxford</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://sabs-r3.github.io/program/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modules</title>
+      <link>https://sabs-r3.github.io/program/modules/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/modules/</guid>
+      <description>We teach a broad spectrum of modules across the physical and life sciences. The first two terms of the four-year doctoral training programme are devoted to acquiring advanced theoretical and technical skills from the physical sciences, and background knowledge in the life sciences.</description>
+    </item>
+    
+    <item>
+      <title>Career development</title>
+      <link>https://sabs-r3.github.io/program/career-development/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/career-development/</guid>
+      <description>You receive training in research skills, communication and entrepreneurship throughout your studies.
+Studying for a DPhil requires an aptitude for original, independent and critical thinking, as well as the ability to write reports, present data, and manage projects. Additionally, working at the interface between the life and physical sciences and across the boundary between industry and academia requires a particularly high degree of flexibility, as the presentation of research can differ greatly depending on context.</description>
+    </item>
+    
+    <item>
+      <title>Supervisors</title>
+      <link>https://sabs-r3.github.io/program/supervisors/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/supervisors/</guid>
+      <description>We work with supervisors across a diverse set of disciplines and departments.
+The SABS CDT works with a wide range of academics across the University and there is no fixed group of partner departments. This gives the programme great flexibility, but also means that what follows should be regarded as only a very general indication of the range of affiliated academics.
+   Name Department Co-sponsors     Achillefs Kapanidis Physics Chelsea Technologies Group   Alex Bullock Structural Genomics Consortium Pfizer    </description>
+    </item>
+    
+    <item>
+      <title>Rotation Projects</title>
+      <link>https://sabs-r3.github.io/program/rotation-projects/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/rotation-projects/</guid>
+      <description>&lt;p&gt;You do two 12-week research projects before embarking on your doctoral research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DPhil Project</title>
+      <link>https://sabs-r3.github.io/program/dphil-project/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/dphil-project/</guid>
+      <description>You choose one rotation project to continue for three years of doctoral research.
+All students undertake a substantive 3-year research project supervised by both an academic and an industrial supervisor. Students work with their proposed supervisory team to define the topic of their substantive doctoral project shortly before the end of their second rotation project. Projects must address research questions that lie within the remit of the programme and are subject to approval by the CDT.</description>
+    </item>
+    
+    <item>
+      <title>Industry partnerships</title>
+      <link>https://sabs-r3.github.io/program/industry-partnerships/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/industry-partnerships/</guid>
+      <description>&lt;p&gt;We work with a range of pharmaceutical and medical companies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

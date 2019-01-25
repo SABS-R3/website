@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SABS:R3 on SABS:R&lt;sup&gt;3&lt;/sup&gt;</title>
+    <link>https://sabs-r3.github.io/</link>
+    <description>Recent content in SABS:R3 on SABS:R&lt;sup&gt;3&lt;/sup&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxford</copyright>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="https://sabs-r3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Professor Charlotte Deane</title>
+      <link>https://sabs-r3.github.io/team/charlotte-deane/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/team/charlotte-deane/</guid>
+      <description>Charlotte has a wide range of research interests concerning protein structure prediction and protein interaction networks, combining both theoretical work and empirical analyses. Originally a Chemist she has moved across many traditional research disciplines and her research group is now based in Statistics. Charlotte completed her PhD in Cambridge and after a Wellcome trust fellowship in California she returned to Oxford as a University Lecturer in 2002.</description>
+    </item>
+    
+    <item>
+      <title>Antibody structure modelling</title>
+      <link>https://sabs-r3.github.io/projects/james-dunbar/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/projects/james-dunbar/</guid>
+      <description>A project which examined how antibody orientation affects binding properties.
+James’ research has dealt with understanding the structural properties of antibodies to help improve modelling and inform engineering of these therapeutically important molecules. To aid these goals he developed a database (SAbDab – Dunbar et al 2014. NAR) to collect, curate and present all publicly available antibody structural data. Last year he spent time at Roche’s Penzberg site integrating SAbDab with their in-house structure database.</description>
+    </item>
+    
+    <item>
+      <title>Cells and Systems</title>
+      <link>https://sabs-r3.github.io/modules/cells-and-systems/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/cells-and-systems/</guid>
+      <description>This module introduces core concepts in molecular and cell biology for graduate students with a background in physical sciences.
+The module will be streamed for students with a background in chemistry and those without a strong background in chemistry. Over the course of the module we introduce the building blocks of life and discuss how they interact to support processes such as replication, metabolism, signal transduction and the immune system. The course is taught through a combination of lectures, problem-solving exercises, discussions and independent study.</description>
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>https://sabs-r3.github.io/program/modules/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/modules/</guid>
+      <description>We teach a broad spectrum of modules across the physical and life sciences. The first two terms of the four-year doctoral training programme are devoted to acquiring advanced theoretical and technical skills from the physical sciences, and background knowledge in the life sciences.</description>
+    </item>
+    
+    <item>
+      <title>Studying diseases using Protein Interaction Networks</title>
+      <link>https://sabs-r3.github.io/projects/malte-luecken/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/projects/malte-luecken/</guid>
+      <description>Building community detection methods.
+When investigating the causes for a complex disease, a standard approach is to find genes which have differential expression patterns depending on whether or not test samples exhibit the disease phenotype. These differentially expressed genes are regarded to encode for proteins which are relevant to the underlying biological process. While important individual proteins may be discovered via this approach, the biological function or pathway which is regulated by these proteins cannot be understood without the context in which the proteins act to perform said function.</description>
+    </item>
+    
+    <item>
+      <title>Professor Garrett M. Morris</title>
+      <link>https://sabs-r3.github.io/team/garrett-morris/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/team/garrett-morris/</guid>
+      <description>Garrett&amp;rsquo;s research interests are in methods development in computer-aided drug discovery, chiefly in high throughput docking, ligand-based virtual screening, network pharmacology, cheminformatics, bioinformatics, machine learning, and more recently protein engineering. He began as an Oxford undergraduate Chemist, completing his Part II and DPhil with W. Graham Richards; in 1991 he moved to The Scripps Research Institute, California, to work on protein-ligand docking and AutoDock, and in 2000 launched the first biomedical volunteer computing project, FightAIDS@Home, which helped spawn other biomedical projects with IBM&amp;rsquo;s World Community Grid.</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics and Statistical Genetics</title>
+      <link>https://sabs-r3.github.io/modules/bioinformatics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/bioinformatics/</guid>
+      <description>This module will take you through exciting topics in the fields of Structural Genomics and Structural Bioinformatics.
+Large number of genomes have given us an unprecedented knowledge of molecular evolution, the nature of selection and the relationship of organisms. This revolution is not over. Data sets are still growing and even existing data is filled with opportunities for analysis and hypothesis testing. The mere size of these data sets pose new challenges to both models and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Career development</title>
+      <link>https://sabs-r3.github.io/program/career-development/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/career-development/</guid>
+      <description>You receive training in research skills, communication and entrepreneurship throughout your studies.
+Studying for a DPhil requires an aptitude for original, independent and critical thinking, as well as the ability to write reports, present data, and manage projects. Additionally, working at the interface between the life and physical sciences and across the boundary between industry and academia requires a particularly high degree of flexibility, as the presentation of research can differ greatly depending on context.</description>
+    </item>
+    
+    <item>
+      <title>Annette Miller</title>
+      <link>https://sabs-r3.github.io/team/annette-miller/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/team/annette-miller/</guid>
+      <description>Charlotte has a wide range of research interests concerning protein structure prediction and protein interaction networks, combining both theoretical work and empirical analyses. Originally a Chemist she has moved across many traditional research disciplines and her research group is now based in Statistics. Charlotte completed her PhD in Cambridge and after a Wellcome trust fellowship in California she returned to Oxford as a University Lecturer in 2002.</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://sabs-r3.github.io/modules/statistics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/statistics/</guid>
+      <description>This Module is taught by the Department of Statistics and takes you through following topics:
+ Basic Concepts Markov Chains and Processes Bayesian Statistics Generalized Linear Modelling Hidden Markov Models BIG DATA.  The first 8 days are generally organised in 4 groups of 90 minutes to 1. Overview Lecture, 2. Exercise, 3. Practical and 4. Hands-on projects. One or two lecturers might depart slightly from this format. Lectures and exercises covers models and algorithms, while Practicals and Projects are more application oriented.</description>
+    </item>
+    
+    <item>
+      <title>GSK-Crick Chemical Biology Doctoral Programme Applications Open</title>
+      <link>https://sabs-r3.github.io/posts/2019-01-23-gsk-crick/</link>
+      <pubDate>Wed, 23 Jan 2019 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/posts/2019-01-23-gsk-crick/</guid>
+      <description>Applications for the GSK-Crick Chemical Biology Doctoral Programme are now open. Applications should be made via the Systems Approaches to Biomedical Science CDT for the deadline of Friday 9 March 2018. Please see the GSK-Crick Chemical Biology Doctoral Programme advert for 2018 entry for more details.</description>
+    </item>
+    
+    <item>
+      <title>Supervisors</title>
+      <link>https://sabs-r3.github.io/program/supervisors/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/supervisors/</guid>
+      <description>We work with supervisors across a diverse set of disciplines and departments.
+The SABS CDT works with a wide range of academics across the University and there is no fixed group of partner departments. This gives the programme great flexibility, but also means that what follows should be regarded as only a very general indication of the range of affiliated academics.
+   Name Department Co-sponsors     Achillefs Kapanidis Physics Chelsea Technologies Group   Alex Bullock Structural Genomics Consortium Pfizer    </description>
+    </item>
+    
+    <item>
+      <title>Rotation Projects</title>
+      <link>https://sabs-r3.github.io/program/rotation-projects/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/rotation-projects/</guid>
+      <description>&lt;p&gt;You do two 12-week research projects before embarking on your doctoral research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DPhil Project</title>
+      <link>https://sabs-r3.github.io/program/dphil-project/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/dphil-project/</guid>
+      <description>You choose one rotation project to continue for three years of doctoral research.
+All students undertake a substantive 3-year research project supervised by both an academic and an industrial supervisor. Students work with their proposed supervisory team to define the topic of their substantive doctoral project shortly before the end of their second rotation project. Projects must address research questions that lie within the remit of the programme and are subject to approval by the CDT.</description>
+    </item>
+    
+    <item>
+      <title>Industry partnerships</title>
+      <link>https://sabs-r3.github.io/program/industry-partnerships/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/program/industry-partnerships/</guid>
+      <description>&lt;p&gt;We work with a range of pharmaceutical and medical companies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lion Creative</title>
+      <link>https://sabs-r3.github.io/testimonials/lion-creative/</link>
+      <pubDate>Wed, 28 Nov 2018 15:05:36 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/testimonials/lion-creative/</guid>
+      <description> Sales bandwidth business model canvas android infographic leverage prototype traction buzz. Founders stock startup incubator gamification series A financing churn rate gen-z ecosystem bootstrapping branding. Interaction design partnership technology. Hackathon infrastructure bandwidth bootstrapping.
+ </description>
+    </item>
+    
+    <item>
+      <title>Thaistyle Asian</title>
+      <link>https://sabs-r3.github.io/testimonials/thaistyle-asian/</link>
+      <pubDate>Wed, 28 Nov 2018 15:04:35 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/testimonials/thaistyle-asian/</guid>
+      <description> Learning curve return on investment twitter traction accelerator client angel investor user experience customer seed round backing. Innovator social media graphical user interface supply chain series A financing. Virality agile development ownership investor research &amp;amp; development focus. Incubator supply chain network effects success paradigm shift crowdfunding client research &amp;amp; development.
+ </description>
+    </item>
+    
+    <item>
+      <title>Mikes Auto Parts</title>
+      <link>https://sabs-r3.github.io/testimonials/mikes-auto-parts/</link>
+      <pubDate>Wed, 28 Nov 2018 15:01:01 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/testimonials/mikes-auto-parts/</guid>
+      <description> Value proposition accelerator crowdsource channels customer. Research &amp;amp; development seed money channels creative. Ramen buzz ecosystem technology equity paradigm shift business-to-business lean startup social proof client startup. Agile development partnership business-to-consumer pitch marketing twitter venture advisor metrics alpha bootstrapping infrastructure seed round.
+ </description>
+    </item>
+    
+    <item>
+      <title>Application Procedure</title>
+      <link>https://sabs-r3.github.io/apply/application-procedure/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/apply/application-procedure/</guid>
+      <description>Application information and selection criteria can be found on the central University pages here.
+Before submitting a full application for a position on the programme, all candidates are required to send a copy of their most recent CV via e-mail to the Academic Administrator at dtcenquiries@dtc.ox.ac.uk to assess your suitability for the course. If advised to submit an application, all applicants are required to follow the University guidelines on the admissions process.</description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>https://sabs-r3.github.io/apply/funding/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/apply/funding/</guid>
+      <description>Studentships are available for students enrolled at the University of Oxford funded by the EPSRC and MRC, University of Oxford, industrial partners and charitable trusts. Restrictions on eligibility set by individual funding bodies will apply. Information on eligibility requirements for EPSRC-MRC studentships can be found here. In order to apply for a Studentship (whether Research Council or industry funded) please enter the following Studentship code on the course application form: 19SABSCDT.</description>
+    </item>
+    
+    <item>
+      <title>DTC Open Day 2017</title>
+      <link>https://sabs-r3.github.io/posts/2018-11-01-dtc-open/</link>
+      <pubDate>Wed, 01 Nov 2017 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/posts/2018-11-01-dtc-open/</guid>
+      <description>The open day is running on the 29th of November from 11-1pm in the Rex Richards Building, South Parks Road.
+To RSVP to the open day please do so here.</description>
+    </item>
+    
+  </channel>
+</rss>

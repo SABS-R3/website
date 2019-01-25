@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SABS:R&lt;sup&gt;3&lt;/sup&gt;</title>
+    <link>https://sabs-r3.github.io/posts/</link>
+    <description>Recent content in Posts on SABS:R&lt;sup&gt;3&lt;/sup&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxford</copyright>
+    <lastBuildDate>Wed, 23 Jan 2019 12:33:46 +1000</lastBuildDate>
+    
+	<atom:link href="https://sabs-r3.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GSK-Crick Chemical Biology Doctoral Programme Applications Open</title>
+      <link>https://sabs-r3.github.io/posts/2019-01-23-gsk-crick/</link>
+      <pubDate>Wed, 23 Jan 2019 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/posts/2019-01-23-gsk-crick/</guid>
+      <description>Applications for the GSK-Crick Chemical Biology Doctoral Programme are now open. Applications should be made via the Systems Approaches to Biomedical Science CDT for the deadline of Friday 9 March 2018. Please see the GSK-Crick Chemical Biology Doctoral Programme advert for 2018 entry for more details.</description>
+    </item>
+    
+    <item>
+      <title>DTC Open Day 2017</title>
+      <link>https://sabs-r3.github.io/posts/2018-11-01-dtc-open/</link>
+      <pubDate>Wed, 01 Nov 2017 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/posts/2018-11-01-dtc-open/</guid>
+      <description>The open day is running on the 29th of November from 11-1pm in the Rex Richards Building, South Parks Road.
+To RSVP to the open day please do so here.</description>
+    </item>
+    
+  </channel>
+</rss>

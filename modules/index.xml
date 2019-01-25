@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modules on SABS:R&lt;sup&gt;3&lt;/sup&gt;</title>
+    <link>https://sabs-r3.github.io/modules/</link>
+    <description>Recent content in Modules on SABS:R&lt;sup&gt;3&lt;/sup&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxford</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://sabs-r3.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cells and Systems</title>
+      <link>https://sabs-r3.github.io/modules/cells-and-systems/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/cells-and-systems/</guid>
+      <description>This module introduces core concepts in molecular and cell biology for graduate students with a background in physical sciences.
+The module will be streamed for students with a background in chemistry and those without a strong background in chemistry. Over the course of the module we introduce the building blocks of life and discuss how they interact to support processes such as replication, metabolism, signal transduction and the immune system. The course is taught through a combination of lectures, problem-solving exercises, discussions and independent study.</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatics and Statistical Genetics</title>
+      <link>https://sabs-r3.github.io/modules/bioinformatics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/bioinformatics/</guid>
+      <description>This module will take you through exciting topics in the fields of Structural Genomics and Structural Bioinformatics.
+Large number of genomes have given us an unprecedented knowledge of molecular evolution, the nature of selection and the relationship of organisms. This revolution is not over. Data sets are still growing and even existing data is filled with opportunities for analysis and hypothesis testing. The mere size of these data sets pose new challenges to both models and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://sabs-r3.github.io/modules/statistics/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/modules/statistics/</guid>
+      <description>This Module is taught by the Department of Statistics and takes you through following topics:
+ Basic Concepts Markov Chains and Processes Bayesian Statistics Generalized Linear Modelling Hidden Markov Models BIG DATA.  The first 8 days are generally organised in 4 groups of 90 minutes to 1. Overview Lecture, 2. Exercise, 3. Practical and 4. Hands-on projects. One or two lecturers might depart slightly from this format. Lectures and exercises covers models and algorithms, while Practicals and Projects are more application oriented.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to apply on SABS:R&lt;sup&gt;3&lt;/sup&gt;</title>
+    <link>https://sabs-r3.github.io/apply/</link>
+    <description>Recent content in How to apply on SABS:R&lt;sup&gt;3&lt;/sup&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Oxford</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://sabs-r3.github.io/apply/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Application Procedure</title>
+      <link>https://sabs-r3.github.io/apply/application-procedure/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/apply/application-procedure/</guid>
+      <description>Application information and selection criteria can be found on the central University pages here.
+Before submitting a full application for a position on the programme, all candidates are required to send a copy of their most recent CV via e-mail to the Academic Administrator at dtcenquiries@dtc.ox.ac.uk to assess your suitability for the course. If advised to submit an application, all applicants are required to follow the University guidelines on the admissions process.</description>
+    </item>
+    
+    <item>
+      <title>Funding</title>
+      <link>https://sabs-r3.github.io/apply/funding/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://sabs-r3.github.io/apply/funding/</guid>
+      <description>Studentships are available for students enrolled at the University of Oxford funded by the EPSRC and MRC, University of Oxford, industrial partners and charitable trusts. Restrictions on eligibility set by individual funding bodies will apply. Information on eligibility requirements for EPSRC-MRC studentships can be found here. In order to apply for a Studentship (whether Research Council or industry funded) please enter the following Studentship code on the course application form: 19SABSCDT.</description>
+    </item>
+    
+  </channel>
+</rss>
