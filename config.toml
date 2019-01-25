@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://sabs-r3.github.io/"
 languageCode = "en-us"
 title = "SABS:R<sup>3</sup>"
 copyright = "Oxford"
@@ -13,21 +13,26 @@ url = "/program/"
 weight = 1
 
 [[menu.main]]
+name = "Apply"
+url = "/apply/"
+weight = 2
+
+[[menu.main]]
 name = "Team"
 url = "/team/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Modules 2019"
 url = "/modules/"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Example Projects"
 url = "/projects/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 6
